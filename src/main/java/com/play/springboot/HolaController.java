@@ -1,4 +1,4 @@
-package com.springboot;
+package com.play.springboot;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
